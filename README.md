@@ -1,5 +1,9 @@
 # Ready For Nanite
 
+<img width="1280" height="640" alt="Preview" src="https://github.com/user-attachments/assets/afce9abe-8c75-4e14-a13f-9b8156cff29b" />
+
+
+
 **Languages:** [English](#english) · [Русский](#russian) · [中文](#chinese)
 
 ---
