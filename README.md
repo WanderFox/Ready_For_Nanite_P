@@ -4,6 +4,13 @@
 
 
 
+Wiki: https://github.com/WanderFox/Ready_For_Nanite_P/wiki
+
+Blenderkit: https://www.blendkit.com/asset-gallery-detail/c961d8c3-eaf9-4774-b2a3-c27f55df8202/?query=author_id%3A1620852
+
+Gumroad: https://fly4xy.gumroad.com/l/ready-for-nanite
+
+
 **Languages:** [English](#english) · [Русский](#russian) · [中文](#chinese)
 
 ---
